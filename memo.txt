@@ -1,0 +1,2 @@
+https://huggingface.co/Salesforce/blip-vqa-base
+https://github.com/dino-chiio/blip-vqa-finetune/blob/main/finetuning.py
