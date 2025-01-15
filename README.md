@@ -11,4 +11,6 @@ Video Captioning Using BLIP model
 4. Save output to JSON  
   
   
-<img src = "blip.png"  width="80%">
+<img src = "blip.png"  width="80%">  
+
+## Output Example
