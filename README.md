@@ -28,3 +28,18 @@ Video Captioning Using BLIP model
     }
 }
 ```
+
+## Calculate Similarity image-text pair
+Set video_path first.
+```
+python blip_cal_sim.py
+
+<Result>
+frame,falldown_normal_1,falldown_abnormal_1
+15,0.1492418646812439,0.15077589452266693
+30,0.012046491727232933,0.0037705618888139725
+45,0.008396473713219166,0.002918859710916877,
+.
+.
+.
+```
